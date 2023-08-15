@@ -1,0 +1,7 @@
+G:\VS\Data\git-\git_dotnet\dotnet1\dotnet1\bin\Debug\dotnet1.exe.config
+G:\VS\Data\git-\git_dotnet\dotnet1\dotnet1\bin\Debug\dotnet1.exe
+G:\VS\Data\git-\git_dotnet\dotnet1\dotnet1\bin\Debug\dotnet1.pdb
+G:\VS\Data\git-\git_dotnet\dotnet1\dotnet1\obj\Debug\dotnet1.csprojAssemblyReference.cache
+G:\VS\Data\git-\git_dotnet\dotnet1\dotnet1\obj\Debug\dotnet1.csproj.CoreCompileInputs.cache
+G:\VS\Data\git-\git_dotnet\dotnet1\dotnet1\obj\Debug\dotnet1.exe
+G:\VS\Data\git-\git_dotnet\dotnet1\dotnet1\obj\Debug\dotnet1.pdb
