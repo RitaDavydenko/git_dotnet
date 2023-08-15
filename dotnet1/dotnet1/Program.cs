@@ -10,7 +10,7 @@ namespace dotnet1
     {
 
 
-
+        static
 
 
 
