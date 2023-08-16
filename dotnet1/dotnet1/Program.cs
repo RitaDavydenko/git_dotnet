@@ -9,16 +9,11 @@ namespace dotnet1
     class Program
     {
 
-
-        static
-
-
-
         static void Main(string[] args)
         {
             Console.WriteLine("Write smth:");
             String text = Console.ReadLine();
-            if (text == "")
+            if (text != "")
             {
 
                 String buff;
@@ -49,10 +44,9 @@ namespace dotnet1
             }
             else
             {
-                Console.WriteLine("Вы ничего не ввели");
+                Console.WriteLine("Вы ничего не ввели.");
+                Console.ReadKey();
             }
-
-
         }
     }
 }
